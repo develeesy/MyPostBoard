@@ -11,4 +11,5 @@ public class TalkController {
     public String printTalkPage(){
         return "talk_page";
     }
+    
 }
