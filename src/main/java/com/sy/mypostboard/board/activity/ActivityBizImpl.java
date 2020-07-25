@@ -8,6 +8,6 @@ public class ActivityBizImpl implements ActivityBiz{
 
     @Override
     public void makeUnlike() {
-
     }
+
 }
